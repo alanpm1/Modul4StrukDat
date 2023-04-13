@@ -29,9 +29,9 @@ public class Mahasiswa {
             String input;
             Mahasiswa data;
 
-            mhs.put("1", new Mahasiswa("Rizky", "3G", "Struktur Data", 325));
-            mhs.put("2", new Mahasiswa("Natee", "3G", "Pemrograman Lanjut", 999));
-            mhs.put("3", new Mahasiswa("Ursa Nano", "3G", "Pemrograman Berorientasi Object", 333));
+            mhs.put("1", new Mahasiswa("Alan", "4K", "Struktur Data", 325));
+            mhs.put("2", new Mahasiswa("Nala", "4K", "Pemrograman Lanjut", 999));
+            mhs.put("3", new Mahasiswa("Alan Nala", "3G", "Pemrograman Berorientasi Object", 333));
 
             System.out.print("Masukkan ID: ");
             input = scn.nextLine();
